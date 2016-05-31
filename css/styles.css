@@ -1,8 +1,8 @@
-#initially-shown {
+#initially-hidden {
   display: none;
 }
 
-.clickable {
+.clickable, .close {
   cursor: pointer;
   color: blue;
 }
